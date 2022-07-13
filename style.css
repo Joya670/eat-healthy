@@ -1,0 +1,182 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.skip-color {
+    color: rgb(80, 156, 17);
+}
+
+section {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+
+}
+
+.half-width img {
+    width: 57%;
+
+}
+
+.head-tex {
+
+    position: absolute;
+    width: 600px;
+    left: 80px;
+    top: 100px;
+    font-style: normal;
+    font-size: 48px;
+
+
+}
+
+.paregrap-tex {
+    position: absolute;
+    width: 600px;
+    left: 80px;
+    top: 290px;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 110px;
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(129, 18, 129), rgb(139, 45, 97));
+    border-radius: 100px;
+    padding: 15px 40px;
+    position: absolute;
+    left: 80px;
+    top: 400px;
+
+}
+
+
+#section-2 {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.head-tex-2 {
+
+    position: absolute;
+    width: 600px;
+    right: 80px;
+    top: 700px;
+    font-style: normal;
+    font-size: 49px;
+
+
+}
+
+.button-2 {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(129, 18, 129), rgb(139, 45, 97));
+    border-radius: 100px;
+    padding: 15px 40px;
+    position: absolute;
+    right: 510px;
+    top: 1000px;
+
+}
+
+.paregrap-tex-2 {
+    position: absolute;
+    width: 600px;
+    right: 80px;
+    top: 800px;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 110px;
+}
+
+.recipies {
+
+    position: absolute;
+    width: 700px;
+    text-align: center;
+    color: #676767;
+    right: 350px;
+    top: 1300px
+}
+
+.recipies-text {
+    position: absolute;
+    width: 700px;
+    text-align: center;
+    color: #676767;
+    right: 350px;
+    top: 1350px;
+    line-height: 20px;
+}
+
+.food-img {
+    width: 470px;
+
+}
+
+.blog {
+    padding: 5%;
+    top: 1400px;
+    width: 50% 50%;
+    text-decoration: none;
+    background-color: blanchedalmond;
+    border-radius: 30px;
+    box-shadow: 0px 4px 15px rgb(237, 177, 245);
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.amount {
+    padding: 5%;
+    border-radius: 30px;
+    margin-left: 5%;
+    border-width: 100px;
+    border-right: 200px;
+}
+
+.amount-box {
+    display: flex;
+    position: absolute;
+    width: 910px;
+    left: 205px;
+    top: 2200px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+
+
+}
+
+.fresh {
+    position: absolute;
+    background: black;
+    top: 2500px;
+    width: 1350px;
+}
+
+.text-eat {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.text-color {
+    color: aqua;
+    font-size: 30px;
+}
+
+.health {
+    color: beige;
+    font-size: 10px;
+
+}
